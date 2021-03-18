@@ -53,3 +53,9 @@
 //テンプレート文字列を用いた方法
 // const message2 = `私の名前は${name}です。年齢は${age}です。`;
 // console.log(message2);
+
+/**
+ * デフォルト値、引数など
+ */
+// const sayHello = (name = "ゲスト") => console.log(`こんにちは！${name}さん！`);
+// sayHello("じゅがる");
